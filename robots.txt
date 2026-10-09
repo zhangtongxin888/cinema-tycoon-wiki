@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://cinematycoon.wiki
+Sitemap: https://cinematycoon.wiki/sitemap.xml

@@ -1,0 +1,63 @@
+{
+  "status": "adsterra-ready",
+  "adNetwork": "adsterra",
+  "adNetworkSource": "default",
+  "releaseBlocking": false,
+  "browserAdRequestCheck": "required-after-deploy",
+  "runtime": "classic-defer",
+  "runtimeHasImport": false,
+  "visibleSlotCap": 3,
+  "enablePopunder": false,
+  "enableSocialBar": false,
+  "adsTxt": "omitted-no-platform-line",
+  "cspHosts": [
+    "https://www.highperformanceformat.com",
+    "https://*.highperformanceformat.com",
+    "https://*.effectivecpmnetwork.com"
+  ],
+  "pages": {
+    "injected": [
+      "_not-found.html",
+      "beginner-guide.html",
+      "codes.html",
+      "faq.html",
+      "gamepasses.html",
+      "index.html",
+      "progression.html",
+      "rebirth.html",
+      "sources.html",
+      "updates.html"
+    ],
+    "legalSkipped": [
+      "404.html"
+    ],
+    "visibleSlotCounts": {
+      "404.html": 0,
+      "_not-found.html": 3,
+      "beginner-guide.html": 3,
+      "codes.html": 3,
+      "faq.html": 3,
+      "gamepasses.html": 3,
+      "index.html": 3,
+      "progression.html": 3,
+      "rebirth.html": 3,
+      "sources.html": 3,
+      "updates.html": 3
+    }
+  },
+  "trackedFiles": [
+    "404.html",
+    "_not-found.html",
+    "beginner-guide.html",
+    "codes.html",
+    "faq.html",
+    "gamepasses.html",
+    "index.html",
+    "progression.html",
+    "rebirth.html",
+    "sources.html",
+    "updates.html",
+    "_headers",
+    "adsterra/runtime.js"
+  ]
+}

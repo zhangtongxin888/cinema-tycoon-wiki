@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[71212,["/_next/static/chunks/06-jfwuz0yy~q.js","/_next/static/chunks/0o7kzu55~lixr.js"],""]
+3:I[50324,["/_next/static/chunks/06-jfwuz0yy~q.js","/_next/static/chunks/0o7kzu55~lixr.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main-content","children":["$","section",null,{"className":"guide-hero","children":["$","div",null,{"className":"site-shell","children":[["$","span",null,{"className":"eyebrow","children":"404 · Missing reel"}],["$","h1",null,{"children":"This page is not on the schedule."}],["$","p",null,{"children":"The guide may have moved. Return to the beginner route and keep learning."}],["$","div",null,{"className":"button-row","children":[["$","a",null,{"className":"button button-primary","href":"/beginner-guide","children":"Open beginner guide"}],["$","$L2",null,{"className":"button button-secondary","href":"/","children":"Back to home"}]]}]]}]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2cnT76V4bQUNMrBFpIV4E"}
+5:null
